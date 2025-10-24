@@ -1,7 +1,7 @@
-# Hi there! I am Thomas Lamb 👋 
+# Hi there! I am Thomas Lamb
 
 I’m a Full-Stack Developer with hands on experience building scalable, high performance
-web applications using React.js, Next.js, Python and GoLang. I love to create intuitive, fast and
+web applications with React.js, Next.js, Python and GoLang. I love to create intuitive, fast and
 responsive interfaces while engineering robust backends that handle data efficiently and reliably.
 I love to combine modern frontend frameworks like React and Next.js with powerful backend
 technologies like Golang and Python to deliver end to end solutions. My experience includes
@@ -10,14 +10,21 @@ Kubernetes. I’m passionate about cleaning architecture, maintainable code and 
 that balance usability, performance and scalability. Whether it’s a dynamic web platform or a
 complex backend service, I focus on building solutions that matter.
 
-## 🌟 About Me
-- 🔭 **Currently working on**: Sr Software Engineer
-- 🌱 **Currently learning**: Gen AI
-- 📫 **How to reach me**: +44 7893 951814
+## About Me
+- **Currently working on**: Sr Software Engineer
+- **Currently learning**: Gen AI
+- **How to reach me**: +44 7893 951814
+- **Gmail**: thomas.lamb.tech@gmail.com
+
+## You Can Find Me on:
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-royalblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-lamb-5a83b6390/)
+</div>
 
 ---
 
-## 🚀 My Tech Stack
+## My Tech Stack
 Here are some tools, languages, and frameworks I use:
 - **Languages**: Javascript/Typescript, Python, Golang
 - **Frameworks/Libraries**: React, Next, Node, MERN, Django/Flask
