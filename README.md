@@ -18,7 +18,7 @@ complex backend service, I focus on building solutions that matter.
 
 ## You Can Find Me on:
 <div align="left">
-
+  
 [![LinkedIn](https://img.shields.io/badge/linkedin-royalblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-lamb-5a83b6390/)
 </div>
 
