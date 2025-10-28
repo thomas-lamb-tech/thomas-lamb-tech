@@ -17,13 +17,11 @@ complex backend service, I focus on building solutions that matter.
 - **Gmail**: thomas.lamb.tech@gmail.com
 - **Telegram**: https://t.me/devw3b3
 
-## You Can Find Me on:
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-royalblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-lamb-5a83b6390/)
-</div>
-
 ---
+
+<p align="center">
+<a href="https://app.daily.dev/chase"><img src="assets/dark-theme.png" width="800" alt="Chase's Dev Card"/></a>
+</p>
 
 ## My Tech Stack
 Main languages and frameworks:
