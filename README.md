@@ -11,10 +11,10 @@ that balance usability, performance and scalability. Whether it’s a dynamic we
 complex backend service, I focus on building solutions that matter.
 
 ## About Me
-- **Currently working on**: Sr Software Engineer
+- **Currently working on**: Sr Fullstack Developer
 - **Currently learning**: Gen AI
-- **How to reach me**: +44 7893 951814
 - **Gmail**: thomas.lamb.tech@gmail.com
+- **Phone**: +44 7893 951814
 - **Telegram**: https://t.me/devw3b3
 
 ---
